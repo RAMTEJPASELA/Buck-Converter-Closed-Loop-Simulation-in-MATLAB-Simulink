@@ -10,7 +10,9 @@ In practical applications especially in **electric vehicles**, **aerospace syste
 
 The primary objective of this project is to **design and implement a closed-loop DC-DC buck converter using a PID controller in MATLAB Simulink**. This enhancement builds upon the previously modeled open-loop system and introduces dynamic voltage regulation through feedback control. The specific goals include:
 
--✅ **Integrate a PID controller** into the buck converter to achieve real-time regulation of the output voltage.
--✅ **Maintain output voltage stability** in the presence of input voltage disturbances and varying load conditions.
--✅ **Demonstrate the real-world relevance** of closed-loop control for applications in electric vehicles, aerospace, and renewable energy technologies.
+- ✅ **Integrate a PID controller** into the buck converter to achieve real-time regulation of the output voltage.  
+- ✅ **Maintain output voltage stability** in the presence of input voltage disturbances and varying load conditions.  
+- ✅ **Demonstrate the real-world relevance** of closed-loop control for applications in electric vehicles, aerospace, and renewable energy technologies.  
+- ✅ **Obtain optimal PID controller parameters** using the **transfer function of the buck converter**, ensuring a balance between fast response and minimal steady-state error.
+
 
